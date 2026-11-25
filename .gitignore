@@ -1,0 +1,17 @@
+# Streamlit secrets (never commit API keys)
+.streamlit/secrets.toml
+secrets.toml
+.env
+
+# Virtual environments
+venv/
+.venv/
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+
+# OS files and local lab instructions
+.DS_Store
+P3 CHALLENGE LAB.html
+
